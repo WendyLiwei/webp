@@ -1,6 +1,6 @@
 $(document).ready(function(){
     $('input').click(function(){
-        setInterval(generate,700);
+        setInterval(generate,(1/1.5*1000));
         document.addEventListener('keydown',logKey);
     });
 });
