@@ -1,0 +1,41 @@
+.main {
+    width: 80%;
+    margin: 20px auto;
+}
+h2{
+    font-family: Verdana;
+    font-weight: normal;
+    text-align: center;
+    color: #cfa4d8;
+}
+img{
+    width:45px;
+    margin: 0 auto
+}
+span{
+    color: #281863;
+}
+table {
+    border-spacing: 0;
+    width: 100%;
+    border-collapse: collapse;
+	overflow: hidden;
+	box-shadow: 0 0 20px rgba(0,0,0,0.1);
+}
+
+body {
+    position: center;
+	background: linear-gradient(45deg, #49a09d, #5f2c82);
+	font-family: sans-serif;
+}
+
+th,td {
+	padding: 15px;
+	background-color: rgba(255,255,255,0.2);
+	color: #fff;
+    text-align: center;
+}
+
+thead {
+	background-color: #55608f;
+}
